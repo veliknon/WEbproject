@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewProject</string>
+    <string name="button">Перейти в браузер</string>
+</resources>
